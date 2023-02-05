@@ -1,0 +1,7 @@
+../Src/stm32f1xx_hal_msp.c:64:6:HAL_MspInit	8	static
+../Src/stm32f1xx_hal_msp.c:90:6:HAL_I2C_MspInit	32	static
+../Src/stm32f1xx_hal_msp.c:126:6:HAL_I2C_MspDeInit	8	static
+../Src/stm32f1xx_hal_msp.c:157:6:HAL_SPI_MspInit	32	static
+../Src/stm32f1xx_hal_msp.c:197:6:HAL_SPI_MspDeInit	0	static
+../Src/stm32f1xx_hal_msp.c:227:6:HAL_TIM_Encoder_MspInit	32	static
+../Src/stm32f1xx_hal_msp.c:261:6:HAL_TIM_Encoder_MspDeInit	0	static

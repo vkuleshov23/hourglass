@@ -1,0 +1,5 @@
+../Src/HourglassColorSettings.cpp:8:6:static void HourglassColorSettings::set_preset(int)	16	static
+../Src/HourglassColorSettings.cpp:28:6:static void HourglassColorSettings::standart_preset()	4	static
+../Src/HourglassColorSettings.cpp:34:6:static void HourglassColorSettings::sakura_preset()	4	static
+../Src/HourglassColorSettings.cpp:40:6:static void HourglassColorSettings::blood_preset()	4	static
+../Src/HourglassColorSettings.cpp:46:6:static void HourglassColorSettings::nature_preset()	4	static

@@ -1,0 +1,16 @@
+../Src/ILI9341.cpp:23:6:void ILI9341_Write_Command(uint8_t)	16	static
+../Src/ILI9341.cpp:34:6:void ILI9341_Write_Data(uint8_t)	16	static
+../Src/ILI9341.cpp:45:6:void ILI9341_Set_Address(uint16_t, uint16_t, uint16_t, uint16_t)	24	static
+../Src/ILI9341.cpp:89:6:void ILI9341_Reset()	8	static
+../Src/ILI9341.cpp:99:6:void ILI9341_Set_Rotation(uint8_t)	16	static
+../Src/ILI9341.cpp:137:6:void ILI9341_Init()	8	static
+../Src/ILI9341.cpp:277:6:void ILI9341_Draw_Colour(uint16_t)	16	static
+../Src/ILI9341.cpp:291:6:void ILI9341_Draw_Colour_Burst(uint16_t, uint32_t)	16	static
+../Src/ILI9341.cpp:314:6:void ILI9341_Fill_Screen(uint16_t)	16	static
+../Src/ILI9341.cpp:321:6:void ILI9341_Draw_Pixel(uint16_t, uint16_t, uint16_t)	16	static
+../Src/ILI9341.cpp:377:6:void ILI9341_Draw_Horizontal_Line(uint16_t, uint16_t, uint16_t, uint16_t)	24	static
+../Src/ILI9341.cpp:391:6:void ILI9341_Draw_Vertical_Line(uint16_t, uint16_t, uint16_t, uint16_t)	24	static
+../Src/ILI9341.cpp:405:6:void ILI9341_Random_line(int16_t, int16_t, int16_t, int16_t, uint16_t)	48	static
+../Src/ILI9341.cpp:462:6:void ILI9341_Draw_Image(const char*, uint16_t, uint16_t, uint16_t, uint16_t, uint32_t)	40	static
+../Src/ILI9341.cpp:482:13:void ILI9341_WriteChar(uint16_t, uint16_t, char, FontDef, uint16_t, uint16_t)	40	static
+../Src/ILI9341.cpp:509:6:void ILI9341_WriteString(uint16_t, uint16_t, const char*, FontDef, uint16_t, uint16_t)	32	static

@@ -1,0 +1,22 @@
+../Inc/HourglassColorSettings.h:18:15:static short int HourglassColorSettings::BackGround()	4	static
+../Inc/HourglassColorSettings.h:19:15:static short int HourglassColorSettings::Sand()	4	static
+../Inc/HourglassColorSettings.h:20:15:static short int HourglassColorSettings::HourGlass()	4	static
+../Src/hourglass.cpp:7:5:static int Hourglass::cosine(int, int, bool)	48	static
+../Src/hourglass.cpp:31:5:static int Hourglass::sine(int, int, bool)	56	static
+../Src/hourglass.cpp:55:5:static int Hourglass::module(int, int, bool)	40	static
+../Src/hourglass.cpp:76:5:int Hourglass::glass_form(int, int, bool)	32	static
+../Src/hourglass.cpp:96:5:int Hourglass::glass_form(int, int)	24	static
+../Src/hourglass.cpp:100:6:void Hourglass::print_sand_line(int, short int)	48	static
+../Src/hourglass.cpp:106:6:void Hourglass::print_sand()	24	static
+../Src/hourglass.cpp:112:6:void Hourglass::change_sand_line(int, int)	24	static
+../Src/hourglass.cpp:117:6:void Hourglass::set_time(double)	24	static
+../Src/hourglass.cpp:121:6:void Hourglass::animation(float, float)	32	static
+../Src/hourglass.cpp:137:6:void Hourglass::reset(float)	16	static
+../Src/hourglass.cpp:148:5:int Hourglass::swap_screen_rotation(float)	24	static
+../Src/hourglass.cpp:158:6:void Hourglass::set_screen_rotation(float)	16	static
+../Src/hourglass.cpp:162:6:void Hourglass::screen_rotation_sand_fall()	32	static
+../Src/hourglass.cpp:179:6:void Hourglass::set_sand_layer(int)	16	static
+../Src/hourglass.cpp:183:6:void Hourglass::print_hourglass()	40	static
+../Src/hourglass.cpp:206:6:void Hourglass::print()	16	static
+../Src/hourglass.cpp:212:6:void Hourglass::set_glass_form(int, float)	24	static
+../Src/hourglass.cpp:220:6:void Hourglass::set_glass_form_for_grains()	16	static

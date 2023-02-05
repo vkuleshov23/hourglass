@@ -1,0 +1,7 @@
+../Inc/grain.h:28:7:void Grain::set_form(int (*)(int, int, bool))	16	static
+../Inc/grain.h:40:2:Grain::~Grain()	16	static
+../Src/grains.cpp:4:1:Grains::Grains(int (*)(int, int, bool))	24	static
+../Src/grains.cpp:8:6:void Grains::animate(int, float, int)	32	static
+../Src/grains.cpp:14:6:void Grains::set_form(int (*)(int, int, bool))	24	static
+../Src/grains.cpp:20:6:void Grains::deleting(int)	24	static
+../Src/grains.cpp:26:1:Grains::~Grains()	24	static
